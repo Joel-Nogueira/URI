@@ -1,0 +1,11 @@
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.exe
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.deps.json
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.runtimeconfig.json
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.runtimeconfig.dev.json
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.dll
+C:\URI\Iniciante\1004\1004\bin\Debug\netcoreapp3.0\1004.pdb
+C:\URI\Iniciante\1004\1004\obj\Debug\netcoreapp3.0\1004.csprojAssemblyReference.cache
+C:\URI\Iniciante\1004\1004\obj\Debug\netcoreapp3.0\1004.AssemblyInfoInputs.cache
+C:\URI\Iniciante\1004\1004\obj\Debug\netcoreapp3.0\1004.AssemblyInfo.cs
+C:\URI\Iniciante\1004\1004\obj\Debug\netcoreapp3.0\1004.dll
+C:\URI\Iniciante\1004\1004\obj\Debug\netcoreapp3.0\1004.pdb
