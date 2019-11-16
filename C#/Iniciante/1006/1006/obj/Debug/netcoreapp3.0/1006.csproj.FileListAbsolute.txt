@@ -1,0 +1,10 @@
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.exe
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.deps.json
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.runtimeconfig.json
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.runtimeconfig.dev.json
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.dll
+C:\URI\C#\Iniciante\1006\1006\bin\Debug\netcoreapp3.0\1006.pdb
+C:\URI\C#\Iniciante\1006\1006\obj\Debug\netcoreapp3.0\1006.AssemblyInfoInputs.cache
+C:\URI\C#\Iniciante\1006\1006\obj\Debug\netcoreapp3.0\1006.AssemblyInfo.cs
+C:\URI\C#\Iniciante\1006\1006\obj\Debug\netcoreapp3.0\1006.dll
+C:\URI\C#\Iniciante\1006\1006\obj\Debug\netcoreapp3.0\1006.pdb
